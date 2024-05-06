@@ -13,7 +13,8 @@
   "license": "ISC",
   "dependencies": {
     "@types/node": "^20.12.8",
-    "inquirer": "^9.2.20"
+    "inquirer": "^9.2.20",
+    "k1r1_oop": "^1.0.0"
   },
   "devDependencies": {
     "@types/inquirer": "^9.0.7"
